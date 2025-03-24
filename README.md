@@ -60,7 +60,7 @@ python main.py
 4. **Monitor detected threats** via the dashboard.
 
 ## Contributors
-- **Bhavesh Mishra** *(Lead Developer)*
+- **Ashutosh Pant** *(Lead Developer)*
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to improve the project, feel free to fork the repository and submit a pull request.
